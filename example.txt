@@ -3,8 +3,12 @@ This is a example file
 =======
 This is an example file
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> main
 another matter 
+=======
+another matter 2
+>>>>>>> main
 =======
 another matter 2
 >>>>>>> main
